@@ -1,9 +1,5 @@
-for the sake of simplicity for evaluation,
-I have given different codes for different maps as you don't need to change
-any value inside the code
 
-
-
+Repository contains multiple codes for multiple map.
 _______________________________________________
 
 
@@ -16,11 +12,7 @@ and press enter as prompted
 
 and press enter as prompted
 
-
-
 _________________________________________
 
 for visualization purpose, pauses in the code is given so 
 you just need to press enter to go next
-
-
